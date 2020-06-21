@@ -1,0 +1,11 @@
+Assignment 1
+Group name: owenlu
+Group member: yixuan lu,yla519
+
+Since it is a one member group,I am the designer,code reviews,development and teestcases.
+
+For question 1,mystring, I include <stdlib.h> to use malloc. I add some constraint to avoid pointer does not exist and insufficient memory. In mystrcpy, I use a temp ptr to hold the initial address of dst ptr and return it.
+
+For question 2,list, I also include <stdlib.h> to use malloc and <assert.h> to use assert.I use Bubble Sort for linked list because it is easy to implement with only head of the list as argument. Do consider empty list cases and pass some these tests.
+
+
